@@ -1,0 +1,22 @@
+# Папки сборки и кэш Visual Studio
+.vs/
+Debug/
+Release/
+x64/
+x86/
+out/
+
+# Промежуточные объектные и бинарные файлы
+*.obj
+*.ilk
+*.pdb
+*.tlog
+*.log
+*.exe
+*.dll
+
+# Пользовательские настройки Visual Studio
+*.user
+*.suo
+*.VC.db
+*.opendb
