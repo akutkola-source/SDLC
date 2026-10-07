@@ -1,0 +1,8 @@
+# Артефакты сборки Visual Studio
+x64/
+Debug/
+Release/
+.vs/
+RateTax/
+*.user
+*.aps
